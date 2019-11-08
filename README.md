@@ -1,5 +1,5 @@
-# OurTetrisCSharp-
-Saqib and Jakub's tetris game. 
+# OurTetrisC#
+Saqib and Jakub's tetris game written in C#. 
 Controls: Left, Right arrows keys to move black left and right respectively.
           Down arrow key for fast drop.
           Z key for rotation of block.
